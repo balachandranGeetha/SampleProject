@@ -1,2 +1,2 @@
 # SampleProject
-Sample Project for learning purpose
+Sample Project for learning purpose updated
